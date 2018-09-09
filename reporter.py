@@ -37,8 +37,6 @@ for log in logs:
   print("Author : {} | view : {}".format(author_name, log[1]))
 
 # Created 2 views
-# create view error_count select TO_CHAR(time::DATE, 'dd/mm/yy') as day, count(TO_CHAR(time::DATE, 'dd/mm/yy')) as cnt from log group by day, status having status != '200 OK';
-# create view success_count as select TO_CHAR(time::DATE, 'dd/mm/yy') as day, count(TO_CHAR(time::DATE, 'dd/mm/yy')) as cnt from log group by day, status having status = '200 OK';
 sql = "select sc.day, round((100.0 * (ec.cnt::numeric/sc.cnt::numeric)), 1) \
         as err_rate from success_count as sc \
         join error_count as ec on ec.day=sc.day \

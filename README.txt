@@ -1,1 +1,0 @@
-This is log report project using python and PostgreSQL.
