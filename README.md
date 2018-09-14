@@ -8,9 +8,11 @@ Q3. On which days did more than 1% of requests lead to errors?
 ## The database
 
 The database has 3 tables.
+
 - articles
 - authors
 - log
+
 The log table has a database row for each time a reader access a web page.
 
 ## Installation & Usage
