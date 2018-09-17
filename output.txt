@@ -1,13 +1,13 @@
 
 The Most 3 Popular Articles
-Title : Candidate is jerk, alleges rival | view : 338647
-Title : Bears love berries, alleges bear | view : 253801
-Title : Bad things gone, say good people | view : 170098
+Title : Candidate is jerk, alleges rival | View : 338647
+Title : Bears love berries, alleges bear | View : 253801
+Title : Bad things gone, say good people | View : 170098
 
 The Most 3 Popular Authors
-Author : Rudolf von Treppenwitz | view : 338647
-Author : Ursula La Multa | view : 253801
-Author : Anonymous Contributor | view : 170098
+Author : Rudolf von Treppenwitz | View : 338647
+Author : Ursula La Multa | View : 253801
+Author : Anonymous Contributor | View : 170098
 
 More than 1% of errors on
 Date : 17/07/16 | Error Rate : 2.3%
